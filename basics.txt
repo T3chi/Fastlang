@@ -1,0 +1,4 @@
+basic commands include:
+	git add . - adds the files in the local repo & stages them for commit
+	git commit -m "message"
+	git push origin master
