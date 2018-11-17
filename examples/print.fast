@@ -1,0 +1,7 @@
+print "no newline" ;
+println "newline";
+
+var i = 0 ;
+
+println "variable printing: " ;
+println i ;

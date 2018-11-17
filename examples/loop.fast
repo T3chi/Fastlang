@@ -1,0 +1,9 @@
+var i = 0 ;
+loop 5 { 
+	println "This will print 5 times" ;
+}
+
+while ( i < 5 ) {
+	println "This will also print 5 times" ;
+	i = i + 1 ;
+}
